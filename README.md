@@ -73,5 +73,4 @@ Previous_week_Reveneue = CALCULATE(
 ![Transaction Analysis](https://github.com/Muskan-guelph/Credit_Card_Financial_Dashboard/blob/main/Assets/Images/Credit_Card_Report%20-%20Transaction.jpg?raw=true)
 ## Download
 [Download the Power BI report](Assets/Report/Credit_Card_Report.pbix)
-## Contact
-For any questions or further information, please contact [Muskan Manwani](mailto:mmanwani@uoguelph.ca).
+
